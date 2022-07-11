@@ -19,3 +19,11 @@ num1 --;
 console.log(num1);
 
 console.log(num1 % 6);
+
+
+num1 += 10;
+console.log(num1); 
+
+function fun() {
+    alert('this is a function');
+}
