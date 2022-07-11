@@ -27,3 +27,10 @@ console.log(num1);
 function fun() {
     alert('this is a function');
 }
+
+
+fun();
+
+function greeting() {
+    var name = prompt('what is your name ')
+}
