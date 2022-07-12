@@ -33,4 +33,15 @@ fun();
 
 function greeting() {
     var name = prompt('what is your name ')
+    var result = 'Hello' + ' ' + name;
+    console.log(result);
 }
+
+//greeting();
+
+function someNumbers(num1, num2){
+    var result = num1 + num2;
+    console.log()
+}
+
+
